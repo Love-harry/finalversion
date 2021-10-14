@@ -1,6 +1,6 @@
 
-import { initializeApp } from "https://www.gstatic.com/firebasejs/9.1.2/firebase-app.js";
-import { getAuth, createUserWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/9.1.2/firebase-auth.js";
+import { initializeApp } from "";
+import { getAuth, createUserWithEmailAndPassword } from "";
 
 const firebaseConfig = {
     apiKey: "AIzaSyCSDlI1P82u2EYKSQL1WJhWKs9Z4roCTQc",
@@ -33,9 +33,9 @@ document.getElementById("signup").addEventListener('click', function () {
         .catch((error) => {
             const errorCode = error.code;
             const errorMessage = error.message;
-            // ..
+            // ...
 
             console.log(errorCode + errorMessage)
         });
 
-})
+});
