@@ -4213,6 +4213,7 @@ tr.no_boder {
 .login_form_wrapper{
   float:left;
   padding:60px;
+  height: 537px;
   width:55%;
   padding:80px 100px 78px 100px;
   text-align:center;
