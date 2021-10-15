@@ -3181,14 +3181,15 @@ tr.no_boder {
 }
 /***-----Common Page Header----***/
 .page_title_section {
-  float:left;
-  width:100%;
-  padding-top: 30px;
-  padding-bottom:33px;
-  background:#dba622;
-  position:fixed;
-  z-index:10;
-  margin-top:103px;
+    float: left;
+    width: 100%;
+    padding-top: 30px;
+    /* padding: 10px; */
+    padding-bottom: 33px;
+    background: #dba622;
+    position: fixed;
+    z-index: 10;
+    margin-top: 103px;
 }
 .page_header {
   padding-bottom: 0;

@@ -59,7 +59,8 @@
 		margin-left: -54px;
 	}
 	.dashboard_header_middle{
-		padding-bottom:7px;
+		/* padding-bottom:7px; */
+		height: 90px;
 	}
 	.logo__txt{
 		padding:22px 20px;
@@ -832,11 +833,11 @@
 	.facebook_wrap{
 		margin-bottom:10px;
 		position: absolute;
-    	left: -135px;
+    	/* left: -135px; */
 	}
 	.google_wrap {
 	    position: absolute;
-	    right: -129px;
+	    /* right: -129px; */
 	    top: 133px;
 	}
 	.jp_regis_center_tag_wrapper{
@@ -1530,7 +1531,7 @@
 }
 @media (max-width: 440px){
 	.login_banner_wrapper {
-	    background-position: center 34px;
+	    background-position: center;
 	}
 }
 @media (max-width: 440px){

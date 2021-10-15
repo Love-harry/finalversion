@@ -65,7 +65,7 @@
   .nice-select.open .list {
     opacity: 1;
     pointer-events: auto;
-    background: #222222;
+    background: #101111;
     -webkit-transform: scale(1) translateY(0);
         -ms-transform: scale(1) translateY(0);
             transform: scale(1) translateY(0); }
