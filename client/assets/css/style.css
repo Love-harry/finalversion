@@ -6091,7 +6091,14 @@ dl.userdescc dd{
 }
 .profile_view_img{
   float:left;
-  width:200px;
+  width:400px;
+  /* height: 200px; */
+  /* border:1px solid red; */
+}
+.profile_img{
+  width: 150px;
+  border-radius: 100%;
+  height: 150px;
 }
 .profile_width_cntnt{
   width:calc(100% - 200px);
